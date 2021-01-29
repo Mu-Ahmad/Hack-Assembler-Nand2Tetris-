@@ -1,7 +1,4 @@
 /* =================================================================
-Name 	: Muhammad Ahmad
-Roll No : BCSF19M509
-
 Hack Assembler: This is two pass version of hack assembler extending
 the last version, it translates the hack assembly code with any
 symbols or variables and generates a .hack file if translation if
